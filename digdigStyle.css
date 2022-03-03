@@ -1,0 +1,29 @@
+/**/
+
+body {
+    display: flex;
+}
+
+#stage {
+    position:relative;
+    margin: 0 auto;
+    overflow: hidden;
+    background: url(DIGLogo.png) 
+}
+
+#score {
+    margin: 0 auto;
+    overflow: hidden;
+    text-align: right;
+}
+
+#item {
+    display:none
+}
+
+#ope {
+    font-size: xx-large;
+    font-weight: bold;
+    color: rgb(228, 39, 228);
+    position: bottom;
+}
